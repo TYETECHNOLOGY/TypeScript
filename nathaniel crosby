@@ -1,0 +1,11 @@
+<idea-plugin xmlns:xi="http://www.w3.org/2001/XInclude">
+  <id>com.android.tools.games</id>
+  <name>Android Games</name>
+  <version>1.0</version>
+  <vendor>Google</vendor>
+  <depends>org.jetbrains.android</depends>
+
+  <description>Android Games tools infrastructure</description>
+  <idea-version since-build="141.175"/>
+
+</idea-plugin>
